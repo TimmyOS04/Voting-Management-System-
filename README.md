@@ -28,8 +28,3 @@ An application for managing and participating in digital voting.
 -Ramis Jay Ramboanga
 
 
-- Voter
-  ```shell
-  email   : Voter1@gmail.com
-  password: password 
-  ```
