@@ -16,7 +16,7 @@
                     <div class="row no-gutters align-items-center">
                         <div class="col mr-2">
                             <div class="text-md font-weight-bold text-danger text-uppercase mb-1">
-                                Total Voters</div>
+                                Voter Total</div>
                             <div class="h5 mb-0 font-weight-bold text-gray-800">{{ $totalVoters }}</div>
                         </div>
                         <div class="col-auto">
