@@ -20,6 +20,12 @@ An application for managing and participating in digital voting.
   - Election Page: Displays all candidates
   - Results Page: Displays vote count chart for all candidates
 
+## Creator
+
+-**Owner**
+-Jhoshua Lubos
+-Jann Remar Timothy Ballesteros
+-Ramis Jay Ramboanga
 
 
 - Voter
